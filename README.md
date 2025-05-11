@@ -11,6 +11,7 @@ Welcome to the official GitHub repository for Velocity X, a sleek, user-centric 
 📝 Signup Page – Secure signup with password confirmation & validation.
 💬 Customer Reviews – Real-time review and feedback section.
 🎨 Consistent Styling – Uniform dropdown sizes and brand-themed colors.
+
 🛠️ Technology Stack
 Frontend:
 
